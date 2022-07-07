@@ -1,8 +1,6 @@
 Hi 👋 My name is Tru!
 =====================
 
-Developer Advocate at Loom
-
 [mewtru.com](http://www.mewtru.com)
 </br>
 🚀  I'm currently working on [Blip](http://blip.so)
